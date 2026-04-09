@@ -26,6 +26,10 @@ testapp/
 
 ---
 
+## If you find these logic-building challenges helpful, feel free to ⭐ this repository!
+
+---
+
 ## 🚀 How to Run Locally
 1. Clone the repo:
 git clone [https://github.com/your-username/repo-name.git](https://github.com/your-username/repo-name.git)
@@ -38,3 +42,5 @@ python manage.py migrate
 
 4. Start the server:
 python manage.py runserver
+
+---
