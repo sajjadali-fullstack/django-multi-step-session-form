@@ -13,6 +13,12 @@ A clean, responsive, and industry-standard Django application that demonstrates 
 * **Frontend:** HTML5, Bootstrap 5
 * **State Management:** Django Sessions
 
+---
+
+## If you find these logic-building challenges helpful, feel free to ⭐ this repository!
+
+---
+
 ## 📂 Project Structure
 ```text
 testapp/
@@ -23,10 +29,6 @@ testapp/
 │       ├── age.html     # Step 2: Age Input
 │       ├── prof.html    # Step 3: Profession Input
 │       └── result.html  # Step 4: Final Summary
-
----
-
-## If you find these logic-building challenges helpful, feel free to ⭐ this repository!
 
 ---
 
