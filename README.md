@@ -30,19 +30,3 @@ testapp/
 │       ├── prof.html    # Step 3: Profession Input
 │       └── result.html  # Step 4: Final Summary
 
----
-
-## 🚀 How to Run Locally
-1. Clone the repo:
-git clone [https://github.com/your-username/repo-name.git](https://github.com/your-username/repo-name.git)
-
-2. Install Django:
-pip install django
-
-3. Run Migrations (for sessions):
-python manage.py migrate
-
-4. Start the server:
-python manage.py runserver
-
----
